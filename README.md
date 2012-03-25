@@ -16,3 +16,8 @@ Once you're familiar with Git and GitHub, clone the repository and run the ```.\
 
 * [Trello Board](https://trello.com/board/samurai/4f1d3d847a38f6221f1d9354) - add ideas, or claim an idea and start working on it!
 * [JabbR Chatroom](http://jabbr.net/#/rooms/code52) - discuss things in real-time with people all over the world!
+
+
+### License
+
+This code is licensed under the Microsoft Permissive License (MS-PL) - the terms are specified in the LICENSE.txt file at the root of the project.
